@@ -42,7 +42,7 @@
 			</div>
 		</nav>
 		<div class="jumbotron">
-			jumbotron
+			Ignore this text
 		</div>
 		<!-- wrapper -->
 		<div class="wrapper">
